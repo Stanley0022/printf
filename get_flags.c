@@ -1,6 +1,9 @@
 #include "main.h"
 
 /**
+ * This is a team project by Olumide Ayeni and Katleho Sineke
+ */
+/**
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
