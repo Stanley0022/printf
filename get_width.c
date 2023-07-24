@@ -8,6 +8,9 @@
  *
  * Return: width.
  */
+/**
+ * This is a team project by Olumide Ayeni and Katleho Sineke
+ */
 int get_width(const char *format, int *i, va_list list)
 {
 	int curr_i;
