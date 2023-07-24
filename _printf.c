@@ -3,6 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
+ * Print ARGUMENT(s) according to FORMAT, or execute according to OPTION
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
