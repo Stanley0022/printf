@@ -186,4 +186,7 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
+/**
+ * This is a team project by Olumide Ayeni and Katleho Sineke
+ */
 
