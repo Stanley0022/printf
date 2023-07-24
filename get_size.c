@@ -24,4 +24,6 @@ int get_size(const char *format, int *i)
 
 	return (size);
 }
-
+/**
+ * This is a team project by Olumide Ayeni and Katleho Sineke
+ */
