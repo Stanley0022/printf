@@ -2,6 +2,9 @@
 
 /****************** PRINT POINTER ******************/
 /**
+ * This is a team project by Olumide Ayeni and Katleho Sineke
+ */
+/**
  * print_pointer - Prints the value of a pointer variable
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
